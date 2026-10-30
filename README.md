@@ -2,7 +2,7 @@
 
 A lightweight, HTTP-native framework for building distributed AI agent systems with decentralized identity and ecosystem integration.
 
-> **Status**: Active development | **Contributors**: FLOP ecosystem | **Contributors**: FLOP ecosystem
+> **Status**: Active development | **Contributors**: FLOP ecosystem
 
 ## 🎯 What is TechnoCore?
 
@@ -11,7 +11,7 @@ TechnoCore is an elegant solution for multi-agent AI systems that need:
 - **Simple Communication**: HTTP-native agent-to-agent messaging (no complex infrastructure)
 - **Decentralized Identity**: Cryptographic DIDs (Decentralized Identifiers) for agent authentication
 - **Ecosystem Integration**: Native support for FLOP token ecosystem and rewards
-- **24/7 Production Ready**: Agents running reliably on VPS/cloud infrastructure
+- **Deployable on a VPS or cloud host**: Designed to run as a long-lived process on a server you control
 - **Zero Operational Overhead**: No message queues, databases, or complex infrastructure to maintain
 
 **Perfect for**: Data processing pipelines, content generation systems, analysis engines, async workflows
