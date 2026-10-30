@@ -2,7 +2,7 @@
 
 A lightweight, HTTP-native framework for building distributed AI agent systems with decentralized identity and ecosystem integration.
 
-> **Status**: Active development | **Production**: 99.8% uptime | **Contributors**: FLOP ecosystem
+> **Status**: Active development | **Contributors**: FLOP ecosystem | **Contributors**: FLOP ecosystem
 
 ## 🎯 What is TechnoCore?
 
@@ -49,8 +49,7 @@ python examples/simple_agent.py
 - Simple HTTP-native communication
 - Cryptographic identity (DIDs)
 - FLOP ecosystem integration
-- 99.8% production uptime
-- 100k+ records processed
+
 
 ## 📄 License
 
